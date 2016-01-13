@@ -1,0 +1,1 @@
+This repository is meant solely to test intel opencl support on Travis CI.  This is accomplished by downloading the OpenCL runtimes, installing, creating a few symbolic links, and testing a simple c++ example.
