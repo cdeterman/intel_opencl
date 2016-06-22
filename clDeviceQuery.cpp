@@ -13,6 +13,7 @@
 
 #include <sstream>
 #include <fstream>
+#include <ctime>
 
 void clPrintDevInfo(cl_device_id device) {
   char device_string[1024];
